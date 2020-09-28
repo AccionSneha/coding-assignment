@@ -1,0 +1,30 @@
+{
+  "name": "coding-assignment",
+  "version": "1.0.0",
+  "description": "Assignment to check coding standards and best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AccionSneha/coding-assignment.git"
+  },
+  "keywords": [],
+  "author": "Sneha Lanjewar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AccionSneha/coding-assignment/issues"
+  },
+  "homepage": "https://github.com/AccionSneha/coding-assignment#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.7",
+    "swagger-ui-express": "^4.1.4",
+    "yamljs": "^0.3.0"
+  }
+}
